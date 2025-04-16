@@ -1,3 +1,4 @@
+#6) Peça 10 números e separe em duas listas: pares e ímpares. Mostre as duas no final.
 contador = 1
 listaPares = []
 listaImpares = []

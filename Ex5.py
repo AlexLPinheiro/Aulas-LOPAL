@@ -1,3 +1,4 @@
+#5) O usuário tem 3 tentativas para acertar a senha. Se errar todas, o acesso é bloqueado. Use while.
 senha = "Fernandao123"
 tentativas = 1
 while tentativas <=3:

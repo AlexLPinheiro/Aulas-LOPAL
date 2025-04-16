@@ -1,3 +1,4 @@
+#7) Peça uma frase e conte quantas vogais há nela. Mostre o total de cada uma (a, e, i, o, u).
 frase = input("Digite uma frase: ")
 frase = frase.lower()
 qtdVogais = 0
